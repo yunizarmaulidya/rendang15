@@ -1,0 +1,9 @@
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: http://gacor30396.zenoh.io/sitemap.xml
